@@ -1,0 +1,27 @@
+{
+    "workbench.colorTheme": "Min Dark",
+    "git.autofetch": true,
+    "terminal.integrated.env.windows": {},
+    "console-ninja.featureSet": "Community",
+    "git.confirmSync": false,
+    "workbench.startupEditor": "none",
+    "symbols.hidesExplorerArrows": false,
+    "workbench.iconTheme": "symbols",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 12,
+    "editor.lineHeight": 1.8,
+    "editor.fontLigatures": true,
+    "explorer.compactFolders": false,
+    "editor.minimap.enabled": false,
+    "redhat.telemetry.enabled": true,
+    "editor.stickyScroll.enabled": false,
+    "git.defaultBranchName": "main",
+    "explorer.autoReveal": false,
+    "editor.formatOnSave": true,
+    "eslint.format.enable": false,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "editor.wordWrapColumn": 120,
+    "[typescriptreact]": {
+        "editor.tabSize": 4
+    }
+}
